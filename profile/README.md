@@ -5,8 +5,6 @@
   ![netdevopsbr_logo_dist_500x500](https://user-images.githubusercontent.com/24397251/161585514-7367e1fc-8eda-48ae-8ea7-72ceb94cb83c.png)
 </div>
 
----
-
 <div align=center>
 
 ## Open Source Projects
@@ -47,7 +45,6 @@
 </div>
 
 </div>
----
 
 <br>
 
