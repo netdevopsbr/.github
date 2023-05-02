@@ -7,6 +7,48 @@
 
 ---
 
+<div align=center>
+
+## Open Source Projects
+<div>
+  <a href="https://github.com/N-Multifibra/netbox-proxbox" target="_blank">
+    <img src="https://user-images.githubusercontent.com/24397251/156668969-2f9d3775-41fa-47d2-ba13-7a6cdabb4db0.png" target="_blank">
+  </a>
+</div>
+<div>
+  <a href="https://github.com/N-Multifibra/netbox-proxbox">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=N-Multifibra&repo=netbox-proxbox" />
+  </a>
+</div>
+
+<br>
+<br>
+
+<div>
+  <a href="https://github.com/emersonfelipesp/netbox-plugins-store" target="_blank">
+    <img src="https://user-images.githubusercontent.com/24397251/158654881-9256069c-3951-49fd-bb04-88288feb0d74.png" target="_blank">
+  </a>
+</div>
+<div>
+  <a href="https://github.com/emersonfelipesp/netbox-plugins-store" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emersonfelipesp&repo=netbox-plugins-store" />
+  </a>
+</div>
+
+<br>
+<br>
+
+### Translation of [Offical NetBox Documentation](https://docs.netbox.dev) to [Portuguese](https://docs.netbox.dev.br) (pt-br)
+
+<div>
+  <a href="https://github.com/netdevopsbr/docs.netbox.dev.br" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=netdevopsbr&repo=docs.netbox.dev.br" />
+  </a>
+</div>
+
+</div>
+---
+
 <br>
 
 <div align=center>
